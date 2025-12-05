@@ -84,33 +84,33 @@
             "mons": [
               {
                 "min_level": 2,
-                "max_level": 100,
-                "species": "SPECIES_KYOGRE"
+                "max_level": 3,
+                "species": "SPECIES_FERALIGATR_MEGA"
               },
               {
                 "min_level": 2,
-                "max_level": 100,
-                "species": "SPECIES_KYOGRE"
+                "max_level": 4,
+                "species": "SPECIES_MEGANIUM_MEGA"
               },
               {
                 "min_level": 2,
-                "max_level": 100,
+                "max_level": 5,
+                "species": "SPECIES_EMBOAR_MEGA"
+              },
+              {
+                "min_level": 3,
+                "max_level": 6,
                 "species": "SPECIES_KYOGRE"
               },
               {
                 "min_level": 3,
-                "max_level": 100,
-                "species": "SPECIES_KYOGRE"
+                "max_level": 3,
+                "species": "SPECIES_FERALIGATR_MEGA"
               },
               {
                 "min_level": 3,
-                "max_level": 100,
-                "species": "SPECIES_KYOGRE"
-              },
-              {
-                "min_level": 3,
-                "max_level": 100,
-                "species": "SPECIES_KYOGRE"
+                "max_level": 4,
+                "species": "SPECIES_KROOKODILE"
               },
               {
                 "min_level": 3,
