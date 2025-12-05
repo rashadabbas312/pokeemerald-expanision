@@ -112,9 +112,9 @@ static const u8 sStarterLabelCoords[STARTER_MON_COUNT][2] =
 
 static const u16 sStarterMon[STARTER_MON_COUNT] =
 {
-    SPECIES_MEWTWO_MEGA_Y,
-    SPECIES_ETERNATUS,
-    SPECIES_RAYQUAZA_MEGA,
+    SPECIES_WURMPLE,
+    SPECIES_ETERNATUS_ETERNAMAX,
+    SPECIES_WURMPLE,
 };
 
 static const struct BgTemplate sBgTemplates[3] =
